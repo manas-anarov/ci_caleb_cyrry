@@ -1,8 +1,13 @@
 #include <stdio.h>
-
+//I like eggs
+/*
+I like eggs
+I like eggs
+I like eggs
+*/
 int main(){
 	
-	printf("The number of eggs for the day: ");
+	printf("The number of eggs for the day: ");//This
 	int eggs;
 	scanf("%i" , &eggs);
 
